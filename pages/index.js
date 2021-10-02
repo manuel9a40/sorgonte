@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import '/leaflet.css'
+import '../public/leaflet.css'
 import Script from 'next/script'
 
 export default function Home() {
