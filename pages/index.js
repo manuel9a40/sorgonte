@@ -22,7 +22,7 @@ export default function Home() {
           Página de inicio - Proyecto 1 IC8017
         </p>
 
-        <div id="map" style={{width: 750, height: 550}}></div>
+        <div id="map" style={{width: 1200, height: 1000}}></div>
 
         <Script src="/index1.js"></Script>
       </main>
